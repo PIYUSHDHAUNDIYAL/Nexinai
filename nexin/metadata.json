@@ -1,0 +1,9 @@
+
+{
+  "name": "NexCommerce AI",
+  "description": "A feature-rich e-commerce platform with role-based dashboards, AI-powered product recommendations, and a smart support chatbot using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
